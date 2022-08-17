@@ -1,2 +1,4 @@
 # :rocket: CRUD-rest-full-CI
-Learning more how work com RESTful APIi with new version Codeigniter 4.0. This app is simple CRUD that your notion about this new version the CI. Were I does test all verbs HTTP requests to GET, PUT, POST and DELETE data
+Learning a little bit more about the new versios of Codeigniter.
+In this application was created a RESFUL API where I tested all HTTP requests verbs.
+GET, PUT, POST and DELETE
